@@ -1,0 +1,30 @@
+{
+  "name": "diskoodo-bot",
+  "version": "0.0.0",
+  "description": "A general-use Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusz-zbrog/diskoodo-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Mateusz Zbróg, Jakub Leżański",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusz-zbrog/diskoodo-bot/issues"
+  },
+  "homepage": "https://github.com/mateusz-zbrog/diskoodo-bot#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "discord.js": "^12.1.1"
+  }
+}

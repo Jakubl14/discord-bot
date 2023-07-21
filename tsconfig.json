@@ -1,0 +1,17 @@
+{
+    "prefix_default": "!",
+
+    "compilerOptions": 
+    {
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    
+    "files": 
+    [
+        "bot.ts"
+    ]
+}
